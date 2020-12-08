@@ -1,0 +1,7 @@
+E:\Projects\C# 2 курс\Lab_8\obj\Debug\Lab_8.csprojAssemblyReference.cache
+E:\Projects\C# 2 курс\Lab_8\obj\Debug\Lab_8.csproj.CoreCompileInputs.cache
+E:\Projects\C# 2 курс\Lab_8\bin\Debug\Lab_8.exe.config
+E:\Projects\C# 2 курс\Lab_8\bin\Debug\Lab_8.exe
+E:\Projects\C# 2 курс\Lab_8\bin\Debug\Lab_8.pdb
+E:\Projects\C# 2 курс\Lab_8\obj\Debug\Lab_8.exe
+E:\Projects\C# 2 курс\Lab_8\obj\Debug\Lab_8.pdb
