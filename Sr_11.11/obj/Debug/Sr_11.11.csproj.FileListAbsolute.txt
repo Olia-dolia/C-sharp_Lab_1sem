@@ -1,0 +1,7 @@
+E:\Projects\C# 2 курс\Sr_11.11\bin\Debug\Sr_11.11.exe.config
+E:\Projects\C# 2 курс\Sr_11.11\bin\Debug\Sr_11.11.exe
+E:\Projects\C# 2 курс\Sr_11.11\bin\Debug\Sr_11.11.pdb
+E:\Projects\C# 2 курс\Sr_11.11\obj\Debug\Sr_11.11.csproj.CoreCompileInputs.cache
+E:\Projects\C# 2 курс\Sr_11.11\obj\Debug\Sr_11.11.exe
+E:\Projects\C# 2 курс\Sr_11.11\obj\Debug\Sr_11.11.pdb
+E:\Projects\C# 2 курс\Sr_11.11\obj\Debug\Sr_11.11.csprojAssemblyReference.cache
